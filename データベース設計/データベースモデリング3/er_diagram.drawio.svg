@@ -1,4 +1,4 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="906px" height="618px" viewBox="-0.5 -0.5 906 618" content="&lt;mxfile&gt;&lt;diagram id=&quot;er-diagram&quot; name=&quot;ER図&quot;&gt;7Zttc+I2EMc/DTPti3b8gAl5SYDkbkoymSRtr68yii2MGtliZJHAffpb2TJ+kANc0Jn24hkmwau1sfT7r1itcM8dR+srjpaLaxZg2nOsYN1zJz3HGVoW/JWGTWYY2E5mCDkJMpNdGO7JV6yM6rxwRQKcVBwFY1SQZdXoszjGvqjYEOfsteo2Z7T6qUsUYs1w7yOqW/8mgVgoqz04Lxo+YRIu1EcPnbOsIUK5s+pJskABey2Z3GnPHXPGRPYuWo8xlWOXj0t23uUbrdsb4zgWh5ywSjBPspNeEF1hzZqITd7r5JVEFMVwdDFnsbhXLTYcI0rCGN778LGYg+EFc0FgwEaqQbAlWP0FocEMbdhK3lwikP+cH10sGCdf4bKIqmtCMxeKvTOoeNzLM8FsgZXjBHxu8x7bNdM1WlccZygRyuAzStEyIU9pN6QlQjwk8QUTgkXKNCeUjhll0KlJzNLOJ4KzZ5wbe4478If4aQ4t+ugrIHI48LpkUjSuMIuw4BtwUa0DJQwVGVuhvBY6c/LwWZQkZuchhJS2w+2lC/zwRilghxoel8+aIG7/6MkbkY7w3x3B3883D9Or6Z2mEuin0AZJjVzDYObKoXgu3tRNskQ+icNZ6jPpF5Y7NQDSxODcOU2DaUGCAMeSORNIoALwkpFYpAPkXcALujS2fvd6Htz4GI7t4hhe0p2LMYuhL4ikRDGo5xVLBWkhoLMvx9Z+/jnwwWG8c7/jcQfkBWZTrjHXyFJSkn8+79nvwhoBIIoLjg8S8+Q3W2Pt6qzdBq4UPWF6yxIiCJPX55lvjfc+pIYQes5hCIemCMYowg34rPIr81Gx+9fobvxpdPeLZ/36YePXEOzBgfOzuXjFESJ0H27lVONtWx3wY4EPW5ygA8IhfYW0B+s5mtbWZWrtZmrusJqqNc0Eg6ZMbdA3oowuUTOVqOlhdlS61gTd0GzQZWu75vMjODblbE0cDeRsWeimtw00+aMM1RrMSxXFhVfar81jU1hbN3/OZh82uo2q4NAp3Fg0+xwjgYPHp82bGii7dDO6eeZN+VwrzJHYl8SXPRX6h8/X0/uH0fVtB98E/G3VrDX6q2VwIP2yZ0f/h9B3h+3R55imX/cJpnMNPaRSoxsNKg5CnGeuMCYLFrIY0WlhhZFexQEOVGZX+MxYmqJJ479YiI1anKGVYHJ5JqLK0m0kt0R6pVUT2C6J7EmKD8dB7jG9i1C8yWxljzURX9QV5ft/pB2IZkeTdcltslEHB5BM2Ir7xXK3MWuCew2xKPuoRZEcvJ0iACBIkJfqlk4T4fRUGAG0KTkoTRdXvpWGYnXo9aurwzO3LJa97vVtm5q7MzzK3T2vKTfrXaHj7TAdNrExfxVhNRzVIkW1pStRnLZEsT3eO+Gdm6hRML+rURirUdRi7L9ZoZDEuwrFjmTlvRTbrE9kEMslhzeWprvrEh80lA1Cb7UcIal35YgTE2+1GCGJ54vMHcTLLh1x08TbrUBI5IIIuvfnAsqptn/seF63f2wCepuFh2xmhwRT3ve+imPulhecpl8eOuAGgOd7vq0BXzJ9NV6Dnbp0M7px1uenStu6HYVTs4dAP1EC1+0nnJx9v8VMzulov5u2hnSHAHaU1VreO5I/VpRlGQ388XtHcpT/53tHimN5x6j6MIO2T1SvdZx4v8jNH/TI9eVV9mj2+ttV/6P3dArJMV+NVae845XXVGU7tfLs71Rezb9/9gOVl32N/azKs1pWXr3ad2rlfafwqu6e5RnXnfxlAYzUz6o34zNd5RcXmtz0TaQTC+6s9nTl+W7B1d37nnuM4uCweLA3cy+ejnan3wA=&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="906px" height="592px" viewBox="-0.5 -0.5 906 592" content="&lt;mxfile&gt;&lt;diagram id=&quot;er-diagram&quot; name=&quot;ER図&quot;&gt;7Zttb+I4EMc/DdLdiz3lgVD6kgLtro5WVdu723tVuYkJvjoxckwL++l3nDjkwSmwizfsbSOhNhlPQuzff8x4DD13HK2vOFourlmAac+xgnXPnfQcZ2hZ8FcaNplhYDuZIeQkyEx2YbgnX7AyquvCFQlwUnEUjFFBllWjz+IY+6JiQ5yz16rbnNHquy5RiDXDvY+obv2HBGKhrPbgvGj4iEm4UG89dM6yhgjlzqonyQIF7LVkcqc9d8wZE9lRtB5jKscuH5fsuss3WrcPxnEsDrlglWCeZBe9ILrCmjURm7zXySuJKIrh7GLOYnGvWmw4R5SEMRz78LaYg+EFc0FgwEaqQbAlWP0FocEMbdhKPlwikP+cn10sGCdf4LaIqntCMxeKvTOoeNzLK8FsgZXjBHxu8x7bNdM1WlccZygRyuAzStEyIU9pN6QlQjwk8QUTgkXKNCeUjhll0KlJzNLOJ4KzZ5wbe4478If4aQ4t+ugrIHI48LpkUjSuMIuw4BtwUa0DJQwVGVuhvBY6c/LwWZQkZuchhJS2w+2tC/xwoBSwQw2Py2dNELd/9uSDSEf4747g76ebh+nV9E5TCfRTaIOkRq5hMHPlUDwXb+omWSKfxOEs9Zn0C8udGgBpYnDtnKbBtCBBgGPJnAkkUAF4yUgs0gHyLuAFXRpbf3g9Dx58DOd2cQ4v6c7FmMXQF0RSohjU84qlgrQQ0NmXY2s//xz44DDeud/xuAPyArMp15hrZCkpyT+f9+zvwhoBIIoLjg8S8+SDrbF2ddZuA1eKnjC9ZQkRhMn788y3xnsfUkMIPecwhENTBGMU4QZ8VvmV+ajY/Xt0N/44uvvNs35/t/FrCPbgwPnZXLziCBG6D7dyqvG2rQ74scCHLU7QAeGQvkLag/UcTWvrMrV2MzV3WE3VmmaCQVOmNugbUUaXqJlK1PQwOypda4JuaDbosrVd8/kRHJtytiaOBnK2LHTTxwaa/FGGag3mpYriwivt1+axKaytm79ms3cb3UZVcOgUbiyafY6RwMHj0+ZNDZRduhndPPOmfK4V5kjsS+LLngr9w6fr6f3D6Pq2g28C/rZq1hr91TI4kH7Zs6P/Q+i7w/boc0zTj/sE07mGHlKp0Y0GFQchzjNXGJMFC1mM6LSwwkiv4gAHKrMrfGYsTdGk8T8sxEYtztBKMLk8E1Fl6TaSWyK90qoJbJdE9iTFh+Mg95jeRSjeZLayx5qIz+qO8vhfaQei2dlkXXKbbNTJASQTtuJ+sdxtzJrgWUMsyj5qUSQHb6cIAAgS5KW6pdNEOL0URgBtSg5K08Wdb6WhWB16/erq8Mwti2Wve33bpubuDI9yd89rys16V+h4O0yHTWzMX0VYDUe1SFFt6UoUpy1RbM/3T3gmFjrM72oUxmoUtRj7OSsUknhXodiRrHwvxTbrExnEcsnhjaXp7rrEOw1lg9BbLUdI6l054sTEWy1GSOL5InMH8bJLR9w08XYrEBK5IILu/bqAcqrtHzue1+0fm4DeZuEhm9khwZTPva/imLvlBafp54cOuAHg+Z5va8CXTF+N12CnLt2Mbpz1+anStm5H4dTsIdBPlMB1+wknZ99vMZOTuwny62tyoa6BP343QY7y/3w3QRVLy3sI1a+3azsH9dXviXcQ3Pyr/7m+vErVfq+/7Zmt8heSY74aq055xyuvqe5yauXZ36i8mn//7AcqL/sY+1WVZ7WsvHr959TK+0bhVd09yzOuO7nXDCP1q+rN+ExX2YPX5KZvK5xYcGe139ud7xZc3b3vuccoDk6Ln3pm7sXvZd3pVw==&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs>
         <clipPath id="mx-clip-41-191-192-26-0">
             <rect x="41" y="191" width="192" height="26"/>
@@ -50,9 +50,6 @@
         </clipPath>
         <clipPath id="mx-clip-361-567-252-26-0">
             <rect x="361" y="567" width="252" height="26"/>
-        </clipPath>
-        <clipPath id="mx-clip-361-593-252-26-0">
-            <rect x="361" y="593" width="252" height="26"/>
         </clipPath>
     </defs>
     <g>
@@ -133,7 +130,7 @@
             </switch>
         </g>
         <path d="M 357 346 L 357 320 L 617 320 L 617 346" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 357 346 L 357 614 L 617 614 L 617 346" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 357 346 L 357 588 L 617 588 L 617 346" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
         <path d="M 357 346 L 617 346" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
         <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
             <text x="486.5" y="337.5">
@@ -183,11 +180,6 @@
         </g>
         <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-361-567-252-26-0)" font-size="12px">
             <text x="362.5" y="579.5">
-                updated_at : TIMESTAMP
-            </text>
-        </g>
-        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-361-593-252-26-0)" font-size="12px">
-            <text x="362.5" y="605.5">
                 updated_at : TIMESTAMP
             </text>
         </g>
