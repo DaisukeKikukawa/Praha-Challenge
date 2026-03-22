@@ -1,3 +1,9 @@
+CREATE TABLE workspaces (
+  id int AUTO_INCREMENT PRIMARY KEY,
+  team_id varchar(50),
+  team_name varchar(100)
+);
+
 CREATE TABLE schedule_types (
   id int AUTO_INCREMENT PRIMARY KEY,
   name varchar(50)
@@ -5,14 +11,17 @@ CREATE TABLE schedule_types (
 
 CREATE TABLE users (
   id int AUTO_INCREMENT PRIMARY KEY,
+  workspace_id int,
   slack_user_id varchar(50),
-  name varchar(50)
+  name varchar(50),
+  FOREIGN KEY (workspace_id) REFERENCES workspaces(id)
 );
 
 CREATE TABLE reminders (
   id int AUTO_INCREMENT PRIMARY KEY,
   created_by int,
   schedule_type_id int,
+  channel_id varchar(50),
   message text,
   schedule_value int NULL,
   next_send_at timestamp,

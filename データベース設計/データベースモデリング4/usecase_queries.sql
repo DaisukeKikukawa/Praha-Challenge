@@ -1,14 +1,15 @@
 -- リマインダーを新規作成する（田中が佐藤と鈴木に3日おきでリマインド）
-INSERT INTO reminders (created_by, schedule_type_id, message, schedule_value, next_send_at, created_at, updated_at)
-VALUES (1, 2, 'PRレビューお願いします', 3, '2026-03-25 10:00:00', NOW(), NOW());
+INSERT INTO reminders (created_by, schedule_type_id, channel_id, message, schedule_value, next_send_at, created_at, updated_at)
+VALUES (1, 2, 'C002DEV', 'PRレビューお願いします', 3, '2026-03-25 10:00:00', NOW(), NOW());
 
 INSERT INTO reminder_recipients (reminder_id, user_id, completed_at)
 VALUES
   (LAST_INSERT_ID(), 2, NULL),
   (LAST_INSERT_ID(), 3, NULL);
 
--- バッチ：現在時刻以前のnext_send_atを持つ、未完了の受信者がいるリマインダーを取得
-SELECT r.id, r.message, r.next_send_at, u.slack_user_id, u.name
+-- バッチ：配信対象のリマインダーを取得（channel_idも含む）
+SELECT r.id, r.message, r.channel_id, r.next_send_at,
+       u.slack_user_id, u.name
 FROM reminders r
 JOIN reminder_recipients rr ON r.id = rr.reminder_id
 JOIN users u ON rr.user_id = u.id
@@ -54,3 +55,8 @@ SELECT r.message, st.name AS schedule, r.schedule_value, r.next_send_at
 FROM reminders r
 JOIN schedule_types st ON r.schedule_type_id = st.id
 WHERE r.created_by = 1;
+
+-- ワークスペースの全ユーザーを取得
+SELECT u.slack_user_id, u.name
+FROM users u
+WHERE u.workspace_id = 1;
